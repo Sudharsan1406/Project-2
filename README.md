@@ -12,7 +12,7 @@ nutritional paradox of rising obesity and persistent malnutrition.
  
 ### Business Use Cases 
 ● Nutrition Risk Monitoring: Identify countries with extremely high obesity or malnutrition 
-levels, flagging them for public health intervention. 
+levels, flagging them for public health intervention. '\n'
 ● Demographic Disparity Analysis: Understand how gender and age groups contribute 
 differently to obesity and malnutrition statistics. 
 ● Data-Driven Policy Planning: Help policymakers prioritize regions for funding and 
